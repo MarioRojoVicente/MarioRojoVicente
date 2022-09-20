@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him
+
+- 📫 How to reach me: mariorojovicente@gmail.com
+
 <!--
 **MarioRojoVicente/MarioRojoVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
