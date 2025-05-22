@@ -12,4 +12,4 @@ My projects range from chess bots using Minimax, to multi-agent pathfinding syst
 📚 Interests: AI, ML, Autonomous Systems, Multi-Agent Systems  
 🌍 Based in Spain | Fluent in English, Spanish | Intermediate French
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) or check out my projects below!
+🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/mario-rojo-vicente/)) or check out my projects below!
