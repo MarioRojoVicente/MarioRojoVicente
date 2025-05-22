@@ -1,20 +1,15 @@
-### Welcome to my profile 👋
+### Hi! I'm Mario. Welcome to my profile 👋
 
 - 😄 Pronouns: he/him
 
 - 📫 How to reach me: mariorojovicente@gmail.com
 
-<!--
-**MarioRojoVicente/MarioRojoVicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing an MSc in Autonomous Systems at DTU. I'm passionate about artificial intelligence and machine learning, with a background in software engineering and hands-on experience in full-stack development.
 
-Here are some ideas to get you started:
+My projects range from chess bots using Minimax, to multi-agent pathfinding systems with object manipulation, and active inference-based decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills: Python, C++, Java, Angular, Git  
+📚 Interests: AI, ML, Autonomous Systems, Multi-Agent Systems  
+🌍 Based in Spain | Fluent in English, Spanish | Intermediate French
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) or check out my projects below!
